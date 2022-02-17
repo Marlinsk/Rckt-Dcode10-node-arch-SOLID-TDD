@@ -1,0 +1,16 @@
+{
+  "name": "rct-dcode10-node-api",
+  "version": "1.0.0",
+  "description": "Construindo APIs Node.js escaláveis com SOLID + TDD - Decode #010",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marlon Rodrigues Santos Teodoro",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "typescript": "^4.5.5"
+  }
+}
