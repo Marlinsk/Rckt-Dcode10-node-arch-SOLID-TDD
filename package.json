@@ -1,5 +1,5 @@
 {
-  "name": "rct-dcode10-node-api",
+  "name": "rocketseat-decode10-node-api",
   "version": "1.0.0",
   "description": "Construindo APIs Node.js escaláveis com SOLID + TDD - Decode #010",
   "main": "index.js",
